@@ -5,7 +5,7 @@ console.log("Hi 👋, I'm Phu");
 
 - 🔭 I’m currently working on **python and javascript.**
 
-- 👨‍💻 All of my projects are available at [https://projects-five-phi.vercel.app/](https://projects-five-phi.vercel.app/)
+- 👨‍💻 Some of my persional project when I first begin programming journey: [https://projects-five-phi.vercel.app/](https://projects-five-phi.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
