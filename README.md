@@ -5,10 +5,6 @@ console.log("Hi 👋, I'm Phu");
 > 📌 **Archived profile 2023**
 <p>👩‍💻 Software Engineering Student | 🇻🇳 Vietnam </br>💡 Passionate about problem-solving, strong using data structures and algorithms skills. </br>🤝 Thrives in collaborative team environments; effective communication is a key strength.</br>💪 Excited about tackling complex problems and implementing effective solutions. </br>💻 Specializes in JavaScript (ReactJS, NextJS, Nodejs) and Python (Django, Flask) for full-stack proficiency.
 
-- 🔭 I'm currently working on **python and javascript.**
-
-- 👨‍💻 Some of my persional projects when I first begin programming journey: [https://projects-five-phi.vercel.app/](https://projects-five-phi.vercel.app/)
-
 <h3 align="left">Connect with me:</h3>
 
 <table>
